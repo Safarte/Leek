@@ -6,7 +6,7 @@
     "description": "Leek",
     "source": "https://github.com/Safarte/Leek",
     "version": "1.0.0",
-    "version_check": "https://raw.githubusercontent.com/Safarte/Leek/main/swinfo.json",
+    "version_check": "https://raw.githubusercontent.com/Safarte/Leek/main/BepInEx/plugins/Leek/swinfo.json",
     "ksp2_version": {
       "min": "0.1.3",
       "max": "*"
