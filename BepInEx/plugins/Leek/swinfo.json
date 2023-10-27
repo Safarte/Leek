@@ -5,17 +5,17 @@
     "name": "Leek",
     "description": "Leek",
     "source": "https://github.com/Safarte/Leek",
-    "version": "1.0.0",
+    "version": "1.0.4",
     "version_check": "https://raw.githubusercontent.com/Safarte/Leek/main/BepInEx/plugins/Leek/swinfo.json",
     "ksp2_version": {
-      "min": "0.1.3",
+      "min": "0.1.5",
       "max": "*"
     },
     "dependencies": [
       {
         "id": "com.github.x606.spacewarp",
         "version": {
-          "min": "1.4.0",
+          "min": "1.5.2",
           "max": "*"
         }
       }

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 73ed7a9af2bcb4748b22473873661ce6
+  m_SerializeEntries:
+  - m_GUID: b1fafda40baa46848bc972a32a8f4d08
+    m_Address: Leek_leek.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: de62d43d2c60901449f717ab61333367
+    m_Address: Leek_leek.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - parts_data
+  - m_GUID: bf4ae1c5cd90619498c925513729f07f
+    m_Address: Leek_leek_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bf851e9bb83cb3b418ad86a08404f036, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bb11c10af661bc648abb767ce2189959, type: 2}
+    - {fileID: 11400000, guid: 74acd19fb9309cc49af45fc7e7394069, type: 2}
